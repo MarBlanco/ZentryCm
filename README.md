@@ -65,7 +65,7 @@ Pedir  →  Generar con IA  →  Revisión de marca  →  Aprobación humana  �
 
 ![Recorrido de la plataforma](demo/recorrido.gif)
 
-Recorrido por las pantallas principales (Inicio, Redes, Tendencias, Mensajes y Asistente IA). También en video: [`demo/recorrido.mp4`](demo/recorrido.mp4). Un video con la plataforma en movimiento (holograma 3D y red neuronal animados) está en preparación.
+Recorrido real de la plataforma: Inicio con el holograma y la red neuronal animados, las páginas de cada red, Tendencias, la bandeja de Mensajes y el Asistente IA. Versión completa en video: [`demo/recorrido.mp4`](demo/recorrido.mp4).
 
 > Todos los datos de redes, tendencias y mensajes que se ven son **de ejemplo**: la conexión con las cuentas reales está en la hoja de ruta.
 
